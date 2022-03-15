@@ -1,0 +1,33 @@
+@use '../abstract/' as a;
+
+.header {
+    display: flex;
+    justify-content: space-between;
+    padding: 0 30px;
+    margin: 30px 0;
+    width: 100%;
+    nav {
+        color: a.$mainClr;
+        width: max-content;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+
+        ul > li {
+            display: inline-block;
+            margin: 0 30px;
+        }
+    }
+    
+}
+
+.navlink-active {
+    color: a.$mainClr;
+    text-decoration: underline;
+}
+
+.navlink {
+    color: a.$mainClr;
+    text-decoration: none;
+}
+

@@ -1,0 +1,51 @@
+@use '../abstract/' as a;
+
+.slider {
+    max-width: 1240px;
+    max-height: 415px;
+    position: relative;
+    overflow: hidden;
+    border-radius: 10px;
+
+    &-button {
+        background: none;
+        border: none;
+        position: absolute;
+        top: 0;
+        bottom: 0;
+        cursor: pointer;
+
+        &.next {
+            right: 0;
+        }
+        &.previous {
+            left: 0;
+        }
+    }
+}
+
+.slider-picture {
+    /* animation: sliderFadeIn .8s ease-in-out; */
+    object-fit: cover;
+    animation: sliderFadeIn .8s ease-in-out;
+}
+
+.slider-counter {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    color: white;
+    display: flex;
+    justify-content: center;
+    font-weight: 700;
+}
+
+@keyframes sliderFadeIn {
+    0% {
+        opacity: 0;
+    }
+    100% {
+        opacity: 1;
+    }
+}

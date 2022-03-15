@@ -1,0 +1,5 @@
+@use '../abstract/' as a;
+* {
+    font-family: 'Montserrat', sans-serif;
+    color: a.$mainClr;
+}

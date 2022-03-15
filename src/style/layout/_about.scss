@@ -1,0 +1,14 @@
+.about {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+.accordion-container {
+    width: 75%;
+
+    & .accordion {
+
+        margin-bottom: 20px;
+    }
+}
+

@@ -1,0 +1,22 @@
+@use '../abstract/' as a;
+
+.tags {
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+}
+
+.tag {
+    background-color: a.$mainClr;
+    color: white;
+    width: max-content;
+    min-width: max-content;
+    padding: 5px 10px;
+    border-radius: 15px;
+    margin: 0 20px 10px 0;
+
+    @media screen and (max-width: 455px) {
+        font-size: 10px
+    }
+}
+

@@ -1,0 +1,22 @@
+@use '../abstract/' as a;
+
+.accordion-header {
+    background-color: a.$mainClr;
+    border-radius: 10px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 5px 10px;
+}
+
+.accordion-title {
+    color: white;
+}
+
+.accordion-content {
+    padding: 15px;
+    background-color: #F7F7F7;
+}
+.accordion-content__hidden {
+    display: none;
+}
