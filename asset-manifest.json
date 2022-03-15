@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Okuspo/LLINARES_Giacomo_12_01032022/static/css/main.bf032dce.css",
+    "main.js": "/Okuspo/LLINARES_Giacomo_12_01032022/static/js/main.6580ccf7.js",
+    "static/media/about_background.png": "/Okuspo/LLINARES_Giacomo_12_01032022/static/media/about_background.6409af8db1576308fb2b.png",
+    "static/media/home_background.png": "/Okuspo/LLINARES_Giacomo_12_01032022/static/media/home_background.ac3aa7396c2c7cd05e2e.png",
+    "static/media/kasa_logo_white.svg": "/Okuspo/LLINARES_Giacomo_12_01032022/static/media/kasa_logo_white.75aafa87f8532e011592388fbd2ff675.svg",
+    "static/media/kasa_logo.svg": "/Okuspo/LLINARES_Giacomo_12_01032022/static/media/kasa_logo.a6101328193bb3191cbcb50c120ec0d1.svg",
+    "index.html": "/Okuspo/LLINARES_Giacomo_12_01032022/index.html",
+    "static/media/arrow.svg": "/Okuspo/LLINARES_Giacomo_12_01032022/static/media/arrow.e12410308432e9546bdecebb54272378.svg",
+    "static/media/arrow-right.svg": "/Okuspo/LLINARES_Giacomo_12_01032022/static/media/arrow-right.1c92bc118955127764051be26b2cb74e.svg",
+    "static/media/arrow-left.svg": "/Okuspo/LLINARES_Giacomo_12_01032022/static/media/arrow-left.492728b6d406325e1541cb78ca70ee18.svg",
+    "static/media/emptyStar.svg": "/Okuspo/LLINARES_Giacomo_12_01032022/static/media/emptyStar.dc80917441e1062af983af463c03ab79.svg",
+    "static/media/fullStar.svg": "/Okuspo/LLINARES_Giacomo_12_01032022/static/media/fullStar.9e5542617f3653c41a8992afe8d357a2.svg",
+    "main.bf032dce.css.map": "/Okuspo/LLINARES_Giacomo_12_01032022/static/css/main.bf032dce.css.map",
+    "main.6580ccf7.js.map": "/Okuspo/LLINARES_Giacomo_12_01032022/static/js/main.6580ccf7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bf032dce.css",
+    "static/js/main.6580ccf7.js"
+  ]
+}
