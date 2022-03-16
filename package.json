@@ -1,7 +1,7 @@
 {
   "name": "kasa",
+  "homepage": "https://okuspo.github.io/LLINARES_Giacomo_11_01032022",
   "version": "0.1.0",
-  "homepage": "https://github.com/Okuspo/LLINARES_Giacomo_12_01032022",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.2",
@@ -24,6 +24,7 @@
     "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
+    "build-localhost": "PUBLIC_URL=/ react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },

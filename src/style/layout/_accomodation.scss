@@ -11,6 +11,7 @@
     align-items: center;
     width: 100%;
     flex-wrap: wrap;
+    max-width: 1240px;
 }
 
 .overview-left {
@@ -18,7 +19,9 @@
     flex-direction: column;
 }
 
-
+.accomodation-details {
+    max-width: 1240px;
+}
 
 .accomodation-title {
     font-weight: 500;
