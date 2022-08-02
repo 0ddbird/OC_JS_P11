@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/LLINARES_Giacomo_11_01032022/static/css/main.d486f2c6.css",
-    "main.js": "/LLINARES_Giacomo_11_01032022/static/js/main.6edf99cb.js",
-    "static/media/about_background.png": "/LLINARES_Giacomo_11_01032022/static/media/about_background.6409af8db1576308fb2b.png",
-    "static/media/home_background.png": "/LLINARES_Giacomo_11_01032022/static/media/home_background.ac3aa7396c2c7cd05e2e.png",
-    "static/media/kasa_logo_white.svg": "/LLINARES_Giacomo_11_01032022/static/media/kasa_logo_white.75aafa87f8532e011592388fbd2ff675.svg",
-    "static/media/kasa_logo.svg": "/LLINARES_Giacomo_11_01032022/static/media/kasa_logo.a6101328193bb3191cbcb50c120ec0d1.svg",
-    "index.html": "/LLINARES_Giacomo_11_01032022/index.html",
-    "static/media/arrow.svg": "/LLINARES_Giacomo_11_01032022/static/media/arrow.e12410308432e9546bdecebb54272378.svg",
-    "static/media/arrow-right.svg": "/LLINARES_Giacomo_11_01032022/static/media/arrow-right.1c92bc118955127764051be26b2cb74e.svg",
-    "static/media/arrow-left.svg": "/LLINARES_Giacomo_11_01032022/static/media/arrow-left.492728b6d406325e1541cb78ca70ee18.svg",
-    "static/media/emptyStar.svg": "/LLINARES_Giacomo_11_01032022/static/media/emptyStar.dc80917441e1062af983af463c03ab79.svg",
-    "static/media/fullStar.svg": "/LLINARES_Giacomo_11_01032022/static/media/fullStar.9e5542617f3653c41a8992afe8d357a2.svg",
-    "main.d486f2c6.css.map": "/LLINARES_Giacomo_11_01032022/static/css/main.d486f2c6.css.map",
-    "main.6edf99cb.js.map": "/LLINARES_Giacomo_11_01032022/static/js/main.6edf99cb.js.map"
+    "main.css": "/OC_P11_Kasa/static/css/main.d486f2c6.css",
+    "main.js": "/OC_P11_Kasa/static/js/main.1121c3dc.js",
+    "static/media/about_background.png": "/OC_P11_Kasa/static/media/about_background.6409af8db1576308fb2b.png",
+    "static/media/home_background.png": "/OC_P11_Kasa/static/media/home_background.ac3aa7396c2c7cd05e2e.png",
+    "static/media/kasa_logo_white.svg": "/OC_P11_Kasa/static/media/kasa_logo_white.75aafa87f8532e011592388fbd2ff675.svg",
+    "static/media/kasa_logo.svg": "/OC_P11_Kasa/static/media/kasa_logo.a6101328193bb3191cbcb50c120ec0d1.svg",
+    "index.html": "/OC_P11_Kasa/index.html",
+    "static/media/arrow.svg": "/OC_P11_Kasa/static/media/arrow.e12410308432e9546bdecebb54272378.svg",
+    "static/media/arrow-right.svg": "/OC_P11_Kasa/static/media/arrow-right.1c92bc118955127764051be26b2cb74e.svg",
+    "static/media/arrow-left.svg": "/OC_P11_Kasa/static/media/arrow-left.492728b6d406325e1541cb78ca70ee18.svg",
+    "static/media/emptyStar.svg": "/OC_P11_Kasa/static/media/emptyStar.dc80917441e1062af983af463c03ab79.svg",
+    "static/media/fullStar.svg": "/OC_P11_Kasa/static/media/fullStar.9e5542617f3653c41a8992afe8d357a2.svg",
+    "main.d486f2c6.css.map": "/OC_P11_Kasa/static/css/main.d486f2c6.css.map",
+    "main.1121c3dc.js.map": "/OC_P11_Kasa/static/js/main.1121c3dc.js.map"
   },
   "entrypoints": [
     "static/css/main.d486f2c6.css",
-    "static/js/main.6edf99cb.js"
+    "static/js/main.1121c3dc.js"
   ]
 }
